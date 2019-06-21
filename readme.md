@@ -1,3 +1,16 @@
+<p>git clone https://github.com/nextun/laravel-seed.git</p>
+
+<p>composer install</p>
+
+<p>restore database using "dressfactory.backup" </p>
+
+<p>create Vurtual Host in your apache </p>
+
+<p>change .env file <br>
+ - database name, and credencils, host</p>
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
